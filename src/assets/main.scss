@@ -247,6 +247,10 @@
         table {
             width: 100%;
 
+            tr:hover #td-duration svg {
+                opacity: 1;
+            }
+
             th {
                 text-align   : left;
                 font-weight  : 800;
